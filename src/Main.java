@@ -5,7 +5,5 @@ public class Main {
         System.out.println("SecondCommit");
 
         System.out.println("ChangesonIDEIntellijIdea");
-
-        
     }
 }
